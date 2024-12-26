@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/SimpleEQDemo/JuceLibraryCode
+/SimpleEQDemo/Builds/VisualStudio2022/x64/Debug
+/SimpleEQDemo/Builds/VisualStudio2022/.vs/SimpleEQDemo
+/SimpleEQDemo/Builds/VisualStudio2022
